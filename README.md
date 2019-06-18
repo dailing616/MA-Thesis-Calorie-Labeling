@@ -24,4 +24,4 @@ The cafe-date-level dataset used for analysis. Aggregated from the check-level d
 
 Data Ownership
 ========
-The research data is owned by Indranil Goswami and Oleg Urminsky. Please contact Dr. Goswami at goswami4@buffalo.edu for access to raw data.
+The research data is owned by Indranil Goswami and Oleg Urminsky. Please contact Dr. Goswami at goswami4@buffalo.edu for access to raw data files.
