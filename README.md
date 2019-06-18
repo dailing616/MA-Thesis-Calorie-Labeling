@@ -1,9 +1,9 @@
-MA Thesis - Ling - Updated V1
+MA Thesis - Ling - Updated V1.pdf
 ========
 Updated version of the MA thesis (Appendix II not updated yet). 
 
 
-Data Cleaning and Processing Documentation.ipynb
+Data Cleaning and Processing Documentation.pdf
 ========
 Documentation for data cleaning and processing, including instructions on manual preparation of the data files and instructions on how to run the "MA Thesis Data Proc.ipynb" file.
 
