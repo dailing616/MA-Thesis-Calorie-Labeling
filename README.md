@@ -16,8 +16,8 @@ Code for regressions on the date-cafe-level dataset.
 
 cafe-date-lvl data.csv
 ========
-The cafe-date-level dataset used for analysis. Aggregated from the check-level dataset, grouped by 'DateClean' and 'cafe', including all observations with #Items<=5 and Subtotal>0.
+The cafe-date-level dataset used for analysis. Aggregated from the check-level dataset, grouped by 'DateClean' and 'cafe', including all observations with #Items<=5 and Subtotal>0 from the check-level dataset. Washout periods coded as basline.
 
 Data Ownership
 ========
-The research data is owned by Indranil Goswami and Oleg Urminsky. Please contact Dr. Goswami at goswami4@buffalo.edu for access to raw data files.
+The research data is owned by Indranil Goswami and Oleg Urminsky. Please contact Dr. Goswami (goswami4@buffalo.edu) for access to raw data files.
